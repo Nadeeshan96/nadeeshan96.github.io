@@ -15,10 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Active open-source contributor. Member of the [Ballerina programming language](https://ballerina.io/) team. Responsible mainly for the Ballerina runtime, JVM bytecode generation, intermediate representation (IR) optimization.
+Active open-source contributor. Member of the [Ballerina programming language](https://ballerina.io/) team.
+Responsible mainly for the Ballerina runtime, JVM bytecode generation, intermediate representation (IR) optimisation.
 
 I am a graduate from University of Moratuwa, Sri Lanka specialized in Electronic and
-Telecommunication Engineering. During my undergraduate years and after that, I focused my research on signal processing, machine learning, optimization and algorithms. I am passionate on using my knowledge and research experience to improve the value and make a huge impact on real-world applications.
+Telecommunication Engineering. Throughout my undergraduate studies and subsequent research, my focus has centered on 
+signal processing, machine learning, optimisation, and algorithms.
+
+__I am passionate about improving my knowledge, conducting research, 
+and using my experience to enhance the value of my work and have a positive impact on real-world applications.__
 
 * **Programming languages:** Ballerina, Java, Python, MATLAB, C++, C
 * **Skills:** research and development, problem solving, effective communication, task planning and teamwork

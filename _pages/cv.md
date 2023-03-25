@@ -14,7 +14,7 @@ __University of Moratuwa, Sri Lanka__ _(Oct 2016 - May 2021)_
 - Honors Degree of Bachelor of Science of Engineering - Electronic and Telecommunication Engineering Specialization
   - __First Class Honors with a CGPA 4.06 out of 4.2__
   - __In Dean’s list on all 8 semesters__
-  - __Ranked 5 out of 101__
+  - __Ranked 4 out of 101__
 
 __Esoft Metro Campus, Sri Lanka__ _(2016)_
 - Diploma in IT with E-Commerce (Pearson Assured)
@@ -32,9 +32,9 @@ ___
 __N. Dissanayake__, C. U. S. Edussooriya, C. Wijenayake and A. Madanayake, "__Multi-
 Beam Wideband Transmit Beamforming using 2-D Sparse FIR Trapezoidal Filters__," under review in IEEE 
 Transactions on Antennas and Propagation
-  * Applied the knowledge of convex optimization, digital filters, and
+  * Applied the knowledge of convex optimisation, digital filters, and
   antenna theory. Used MATLAB, CVX toolbox, Python for multi-dimensional signal processing and constrained
-  optimization. Used the CST Studio Suite for the creation and simulation of antenna array system.
+  optimisation. Used the CST Studio Suite for the creation and simulation of antenna array system.
 
 D. Pakiyarajah, __N. D. K. Dissanayake__, C. U. S. Edussooriya, C. Wijenayake and A. Madanayake,
 "__Weighted Least-Squares Design of 2-D IIR Filters with Arbitrary Frequency Response using Iterative Second-
@@ -42,7 +42,7 @@ Order Cone Programming__," 2022 IEEE International Symposium on Circuits and Sys
 2022, pp. 1-5, doi: 10.1109/ISCAS48785.2022.9937617.
 [[pdf]](https://drive.google.com/file/d/1LHU2egwflD_wPyBtVeNSH6lYPqlumeAm/view)
 [[tutorial]](https://drive.google.com/file/d/1E7M5ctkxV-C4oUsuvWN3gpyVQYP-Xh_N/view)
-  * Converted the non-convex optimization problem into an iterative SOCP problem,
+  * Converted the non-convex optimisation problem into an iterative SOCP problem,
 which is then solved using MATLAB and CVX toolbox.
 
 D. Wijesundera, __N. Dissanayake__, A. Prakash, T. Srikanthan and D. Anhettigama, "__Dependency-Aware
@@ -58,7 +58,7 @@ ___
 __Software Engineer__ at [WSO2](https://wso2.com/) _(May 2021 - present)_
 * Member of the [Ballerina programming language](https://ballerina.io/) team.
 Responsible mainly for the Ballerina runtime, including but not limited to scheduling, type checking, runtime APIs,
-JVM bytecode generation, intermediate representation (IR) optimization, observability, configurability, interoperability and performance.
+JVM bytecode generation, intermediate representation (IR) optimisation, observability, configurability, interoperability and performance.
 
 __Research Assistant__ at [Hardware and Embedded Systems Lab (HESL)](https://www.ntu.edu.sg/hesl/research-focus), Nanyang Technological University,
 Singapore (2020 QS World University Ranking - 11) _(Jun 2019 - Dec 2019)_
@@ -100,7 +100,7 @@ gradient boosted decision trees, KNN, and SVM. Ensemble of these classifiers wer
 higher accuracy. Ultimately ESP32’s location could be displayed in real-time in Node-RED and in an Android mobile
 application. [[report]](https://drive.google.com/file/d/1qZMKPedrl6F3G2sIx3FVX-d4j3eXiBvl/view)
 
-__Design of a mobile app to detect types of medicine using Deep Learning and Android Studio__
+__Design of a Mobile App to Detect Types of Medicine using Deep Learning and Android Studio__
 * Used Transfer Learning to retrain the MobileNet Convolutional Neural Network
 and used TensorFlow Lite to deploy it in the mobile phone. Presented to the Brainstorm 2018
 competition and got a merit award.
@@ -109,21 +109,21 @@ __Design and Implementation of an M-Fold Interpolator__ [[report]](https://drive
 
 __Design and Simulation of a Fuzzy Logic Controller__ [[report]](https://drive.google.com/file/d/1PJ31yN8vK_qRclduwQaoyEfgc41L-Cjv/view)
 
-__Image down-sampling processor implementation on FPGA__ [[report]](https://drive.google.com/file/d/1BHJg_6kH2_pMFBTn35woMI-bvNIdfJSJ/view)
+__Image Down-sampling Processor Implementation on FPGA__ [[report]](https://drive.google.com/file/d/1BHJg_6kH2_pMFBTn35woMI-bvNIdfJSJ/view)
 
 __Implementation of a UART using FGPA__ [[report]](https://drive.google.com/file/d/1RG1kDl1NgrXv8r-dbXBb_QKdbfTghIZw/view?usp=share_link)
 
 __AC Voltage Regulator using Power Electronic Devices__ [[report]](https://drive.google.com/file/d/1WC_v5h0DVWe7yd46Pa49iUDTinkwbAZE/view?usp=share_link)
 
-__Design of a FIR Bandpass filter using Windowing method using MATLAB__ [[report]](https://drive.google.com/file/d/1f-GT6UttmvoQJqplNoJxgZ8fnYUBhXXh/view?usp=share_link)
+__Design of a FIR Bandpass Filter using Windowing Method using MATLAB__ [[report]](https://drive.google.com/file/d/1f-GT6UttmvoQJqplNoJxgZ8fnYUBhXXh/view?usp=share_link)
 
 __Analog Line Following Robot__ [[report]](https://drive.google.com/file/d/1aJwVcU2T-em6exkn5vnDM6QQZXgF0JCT/view?usp=share_link)
 
-__Bot to play game Battleship using PIC microcontroller__ [[report]](https://drive.google.com/file/d/1A1H81vRyCLsmS7Bn99tvZRV4gR1IPW2q/view?usp=share_link)
+__Bot to Play Game Battleship using PIC Microcontroller__ [[report]](https://drive.google.com/file/d/1A1H81vRyCLsmS7Bn99tvZRV4gR1IPW2q/view?usp=share_link)
 
-__Automatic irrigation system for cultivations based on moisture level and time of the day__
+__Automatic Irrigation System for Cultivations Based on Moisture Level and Time of the Day__
 
-__Payroll System software using Visual Studio__
+__Payroll System Software using Visual Studio__
 
 <br>
 # Achievements {#achievements}
@@ -146,14 +146,14 @@ ___
 - __Australian National Chemistry Quiz 2014__ – Senior Division - All island 2nd Place
 - __Sri Lankan Mathematical Olympiad 2014,2012__ – High Distinction
 - __International Assessments for Schools – 2008__
-  - Country rank 1 in Mathematics
-  - Country rank 1 in Computer Skills
+  - Mathematics - Country rank 1
+  - Computer Skills - Country rank 1
 
 <br>
 # Extra-curricular activities {#volunteering}
 ___
 
-* __ICON 2K17 Conference – Aiesec Colombo South__
+* __ICON 2K17 Conference – AIESEC Colombo South__
   * Organizing Committee Vice President - Logistics
 * __All Island Inter School Music and Drama Competition 2009__
   * Junior section male group singing - All Island 1st Place
