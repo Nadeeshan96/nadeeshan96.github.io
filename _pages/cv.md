@@ -12,17 +12,17 @@ ___
 
 __University of Moratuwa, Sri Lanka__ _(Oct 2016 - May 2021)_
 - Honors Degree of Bachelor of Science of Engineering - Electronic and Telecommunication Engineering Specialization
-  - First Class Honors with a CGPA 4.06 out of 4.2
-  - In Dean’s list on all 8 semesters
-  - Ranked 5 out of 101
+  - __First Class Honors with a CGPA 4.06 out of 4.2__
+  - __In Dean’s list on all 8 semesters__
+  - __Ranked 5 out of 101__
 
 __Esoft Metro Campus, Sri Lanka__ _(2016)_
 - Diploma in IT with E-Commerce (Pearson Assured)
 
 __Maliyadeva College, Kurunegala, Sri Lanka__ (Primary and High School) _(Jan 2002 -Aug 2015)_
 - General Certificate of Education - Advanced Level Examination (Physical stream) - 2015
-  - Country Rank: 2 out of 32393
-  - Z-Score: 3.1675
+  - __Country Rank: 2 out of 32393__
+  - __Z-Score: 3.1675__
   - 4A’s for Physics, Combined Mathematics, Chemistry, General English
   
 <br>
@@ -60,7 +60,7 @@ __Software Engineer__ at [WSO2](https://wso2.com/) _(May 2021 - present)_
 Responsible mainly for the Ballerina runtime, including but not limited to scheduling, type checking, runtime APIs,
 JVM bytecode generation, intermediate representation (IR) optimization, observability, configurability, interoperability and performance.
 
-__Research Assistant__ at Hardware and Embedded Systems Lab (HESL), Nanyang Technological University,
+__Research Assistant__ at [Hardware and Embedded Systems Lab (HESL)](https://www.ntu.edu.sg/hesl/research-focus), Nanyang Technological University,
 Singapore (2020 QS World University Ranking - 11) _(Jun 2019 - Dec 2019)_
 * 6 months research internship on the project "__Intelligent Tool for Design Exploration and Customization of FPGA based CSoC Platforms__"
 * Presented an algorithm for efficient hardware (HW) – software (SW) partitioning of C applications on FPGAs.
@@ -162,7 +162,7 @@ ___
 # Courses {#courses}
 ___
 
-- Electronic and Telecommunication Engineering
+- __Electronic and Telecommunication Engineering__
   - Electronics - I, Introduction to Telecommunications, Signals and Systems, 
   Electronics Product Design and Manufacture, Laboratory Practice - I, Electronics - II,
   Random Signals and Processes, Communication Systems and Networks, Laboratory Practice - II,
@@ -170,27 +170,27 @@ ___
   Electronic Design Realization, Circuits and Systems Design, Digital Communications - I, Electronic Control Systems,
   Industrial Training, Project, Advanced Signal Processing, Research Project, Internet of Things, Robotics, Autonomous Systems
 
-- Electrical Engineering
+- __Electrical Engineering__
   - Electrical Engineering, Theory of Electricity
 
-- Computer Engineering
+- __Computer Engineering__
   - Programming Fundamentals, Fundamentals of Computer Organization and Design, Data Structures and Algorithms,
 Fundamentals of Image Processing and Machine Vision, Computer Networks
 
-- General Engineering
+- __General Engineering__
   - Fluid Mechanics, Mechanics, Engineering in Context, Properties of Materials, Engineering Drawing & Computer Aided Modelling
 
-- Mathematics
+- __Mathematics__
   - Mathematics, Methods of Mathematics, Calculus, Differential Equations, Linear Algebra, Applied Statistics, Operational Research, Neural Network and Fuzzy Logic
 
-- Management
+- __Management__
   - Business Economics and Financial Accounting, Production and Operations Management, Human Resource Management and Industrial Relations,
 Entrepreneurship Skill Development
 
-- Humanities
+- __Humanities__
   - Language Skill Enhancement - I, Communication Skills, Astronomy and Cosmology, Yoga Practice, Ethics and Legal Fundamentals, Seminar, Technical & Scientific Writing
 
-- Online courses
+- __Online courses__
   - Digital Signal Processing - Coursera - Issued Jun 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/EYNGL5QUL6JV) 
   - Building Arduino robots and devices - Coursera - Issued Apr 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/6DFJBT5GL5G7)
   - Structuring Machine Learning Projects - Coursera - Issued Mar 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/5JV3EPQH8GJA)
