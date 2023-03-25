@@ -58,7 +58,7 @@ ___
 __Software Engineer__ at [WSO2](https://wso2.com/) _(May 2021 - present)_
 * Member of the [Ballerina programming language](https://ballerina.io/) team.
 Responsible mainly for the Ballerina runtime, including but not limited to scheduling, type checking, runtime APIs,
-JVM bytecode generation, intermediate representation (IR) optimization, and performance.
+JVM bytecode generation, intermediate representation (IR) optimization, observability, configurability, interoperability and performance.
 
 __Research Assistant__ at Hardware and Embedded Systems Lab (HESL), Nanyang Technological University,
 Singapore (2020 QS World University Ranking - 11) _(Jun 2019 - Dec 2019)_
@@ -66,7 +66,7 @@ Singapore (2020 QS World University Ranking - 11) _(Jun 2019 - Dec 2019)_
 * Presented an algorithm for efficient hardware (HW) – software (SW) partitioning of C applications on FPGAs.
 Estimated the HW, SW performance on functional level for different FPGA device families. Automated the
 generation of interfaces, C, Verilog code for the HW-SW partitioned application. Used C, Verilog, Python, LLVM, LegUp HLS
-* Supervisors: Dr. Deshya Wijesundera, Prof. Alok Prakash, Prof. Thambipillai Srikanthan
+* Supervisors: Dr. Deshya Wijesundera, Dr. Alok Prakash, Prof. Thambipillai Srikanthan
 
 <br>
 # Projects {#projects}
@@ -129,33 +129,84 @@ __Payroll System software using Visual Studio__
 # Achievements {#achievements}
 ___
 
-- IEEEXtreme Programming Competition
-  - 2020 - World Rank 52, Island Rank 1 Team TeamNameUOM
-  - 2018 - World Rank 91, Island Rank 4 Team TeamName
-  - 2017 - World Rank 127, Island Rank 2 Team TeamName
-- Google Hash Code
-  - 2020 - World Rank 549, Island Rank 3 Team TeamName
-  - 2019 - World Rank 1655, Island Rank 2 Team TeamName
-- aces Coders v 8.0 coding competition – Team TeamName – 2nd place
-- MoraXtreme Programming Competition 2017 – Team TeamName – 1st place
-- Merit Award at Brainstorm 2018 – Biomedical Competition in Sri Lanka organized by IEEE EMBS University of Moratuwa
-- International Physics Olympiad 2016 held in Switzerland – Sri Lankan team member
-- 17th Asian Physics Olympiad held in Hong Kong – Sri Lankan team member
-- Sri Lankan Physics Olympiad Competition 2015 – Gold Medal
-- Australian National Chemistry Quiz 2014 – Senior Division - All island 2nd Place
-- Sri Lankan Mathematical Olympiad 2014,2012– High Distinction
-- International Assessments for Schools – 2008
-  - All island 1st Place in Mathematics, and in Computer Skills
+- __IEEEXtreme Programming Competition__
+  - 2020 - __World Rank 52__, Country Rank 1 - Team TeamNameUOM
+  - 2018 - __World Rank 91__, Country Rank 4 - Team TeamName
+  - 2017 - __World Rank 127__, Country Rank 2 - Team TeamName
+- __Google Hash Code__
+  - 2020 - __World Rank 549__, Country Rank 3 - Team TeamName
+  - 2019 - World Rank 1655, Country Rank 2 - Team TeamName
+- __Brainstorm 2018__ – Biomedical Competition in Sri Lanka organized by IEEE EMBS University of Moratuwa
+  - __Merit award__
+- __aces Coders v 8.0 coding competition__ – Team TeamName – 2nd place
+- __MoraXtreme Programming Competition 2017__ – Team TeamName – 1st place
+- __International Physics Olympiad 2016 held in Switzerland__ – Sri Lankan team member
+- __17th Asian Physics Olympiad held in Hong Kong__ – Sri Lankan team member
+- __Sri Lankan Physics Olympiad Competition 2015__ – Gold Medal
+- __Australian National Chemistry Quiz 2014__ – Senior Division - All island 2nd Place
+- __Sri Lankan Mathematical Olympiad 2014,2012__ – High Distinction
+- __International Assessments for Schools – 2008__
+  - Country rank 1 in Mathematics
+  - Country rank 1 in Computer Skills
 
 <br>
 # Extra-curricular activities {#volunteering}
 ___
 
-* Organizing Committee Vice President - Logistics
-  * ICON 2K17 Conference – Aiesec Colombo South
-* All Island Inter School Music and Drama Competition 2009
+* __ICON 2K17 Conference – Aiesec Colombo South__
+  * Organizing Committee Vice President - Logistics
+* __All Island Inter School Music and Drama Competition 2009__
   * Junior section male group singing - All Island 1st Place
   
 <br>
 # Courses {#courses}
 ___
+
+- Electronic and Telecommunication Engineering
+  - Electronics - I, Introduction to Telecommunications, Signals and Systems, 
+  Electronics Product Design and Manufacture, Laboratory Practice - I, Electronics - II,
+  Random Signals and Processes, Communication Systems and Networks, Laboratory Practice - II,
+  Analog and Digital Communications, Electromagnetics, Electronics - III, Digital Signal Processing,
+  Electronic Design Realization, Circuits and Systems Design, Digital Communications - I, Electronic Control Systems,
+  Industrial Training, Project, Advanced Signal Processing, Research Project, Internet of Things, Robotics, Autonomous Systems
+
+- Electrical Engineering
+  - Electrical Engineering, Theory of Electricity
+
+- Computer Engineering
+  - Programming Fundamentals, Fundamentals of Computer Organization and Design, Data Structures and Algorithms,
+Fundamentals of Image Processing and Machine Vision, Computer Networks
+
+- General Engineering
+  - Fluid Mechanics, Mechanics, Engineering in Context, Properties of Materials, Engineering Drawing & Computer Aided Modelling
+
+- Mathematics
+  - Mathematics, Methods of Mathematics, Calculus, Differential Equations, Linear Algebra, Applied Statistics, Operational Research, Neural Network and Fuzzy Logic
+
+- Management
+  - Business Economics and Financial Accounting, Production and Operations Management, Human Resource Management and Industrial Relations,
+Entrepreneurship Skill Development
+
+- Humanities
+  - Language Skill Enhancement - I, Communication Skills, Astronomy and Cosmology, Yoga Practice, Ethics and Legal Fundamentals, Seminar, Technical & Scientific Writing
+
+- Online courses
+  - Digital Signal Processing - Coursera - Issued Jun 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/EYNGL5QUL6JV) 
+  - Building Arduino robots and devices - Coursera - Issued Apr 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/6DFJBT5GL5G7)
+  - Structuring Machine Learning Projects - Coursera - Issued Mar 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/5JV3EPQH8GJA)
+  - Neural Networks and Deep Learning - Coursera - Issued Feb 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/YYFKX2FUTAEP)
+  - Convolutional Neural Networks - Coursera- Issued Mar 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/3XBGEMPR88WZ)
+  - Sequence Models - Coursera - Issued Apr 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/H76PV832U9N9)
+  - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - Coursera - Issued Feb 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/DN595LWLBE8Q)
+  - Deep Learning Specialization - Coursera - Issued Apr 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/8T6795XU766R)
+  - Introduction to Git and GitHub - Coursera - Issued Nov 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/BYMQMQNWW4YT)
+  - Save, Load and Export Models with Keras - Coursera - Issued May 2020 [[credential]](https://www.coursera.org/account/accomplishments/certificate/ZTD83YGC9RML)
+  - Networking Essentials - Cisco Networking Academy  Issued Jun 2019
+  - Fundamentals of Reinforcement Learning - Coursera - Issued Jan 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/B466AB9CXE7K)
+  - Introduction to Java Programming: Java Fundamental Concepts - Coursera - Issued Jan 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/GDXDVXYUGHT5)
+  - Google Cloud Platform Big Data and Machine Learning Fundamentals - Coursera - Issued Jan 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/GJZCTSXTT2DT)
+  - Deep Learning with PyTorch: Build a Neural Network - Coursera - Issued Jan 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/5HRTRMEGZV7M)
+  - Deep Learning with PyTorch : Convolutional Neural Network - Coursera - Issued Jan 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/U7RS8XLJZX94)
+  - Embedded Software and Hardware Architecture - Coursera - Issued Mar 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/SQC4XJKUFZ3K)
+  - Fundamentals of Digital Image and Video Processing - Coursera - Issued Mar 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/VJFLYSRM62K8)
+  - Understanding Financial Markets - Coursera - Issued Mar 2021 [[credential]](https://www.coursera.org/account/accomplishments/certificate/UYBAZZAEYR2T)
