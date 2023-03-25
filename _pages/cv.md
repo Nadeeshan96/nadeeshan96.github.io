@@ -84,8 +84,8 @@ micro-Doppler signatures are not affected by distance, variations in lighting, d
 occlusions on the appearance of human body segments. Hence, the outcome of this project is vital for various 
 kinds of practical scenarios like human vital signs detection, fall detection, gait analysis, human behavior 
 monitoring, and to design touchless systems using hand gesture recognition.
-[[Project video]](https://www.linkedin.com/posts/nadeeshan-dissanayake_our-final-year-project-human-motion-recognition-activity-6845025388213637120-E3u1/)
-[[Project report]](https://drive.google.com/file/d/1RJOk-1JjsorxzEFVMulmkLE3yj0JPynD/view)
+[[video]](https://www.linkedin.com/posts/nadeeshan-dissanayake_our-final-year-project-human-motion-recognition-activity-6845025388213637120-E3u1/)
+[[report]](https://drive.google.com/file/d/1RJOk-1JjsorxzEFVMulmkLE3yj0JPynD/view)
 * Supervisors: Dr. Chamira Edussooriya, Dr. Ranga Rodrigo
 * External Collaborators: Dr. Viduneth Ariyarathna, Prof. Arjuna Madanayake
 
@@ -98,31 +98,32 @@ machine learning__
 imbalanced dataset was preprocessed and used to train few classifiers such as random forest,
 gradient boosted decision trees, KNN, and SVM. Ensemble of these classifiers were used to obtain
 higher accuracy. Ultimately ESP32’s location could be displayed in real-time in Node-RED and in an Android mobile
-application.[[Project report]](https://drive.google.com/file/d/1qZMKPedrl6F3G2sIx3FVX-d4j3eXiBvl/view)
+application. [[report]](https://drive.google.com/file/d/1qZMKPedrl6F3G2sIx3FVX-d4j3eXiBvl/view)
 
 __Design of a mobile app to detect types of medicine using Deep Learning and Android Studio__
 * Used Transfer Learning to retrain the MobileNet Convolutional Neural Network
 and used TensorFlow Lite to deploy it in the mobile phone. Presented to the Brainstorm 2018
 competition and got a merit award.
 
-__Image down-sampling processor implementation on FPGA__
+__Design and Implementation of an M-Fold Interpolator__ [[report]](https://drive.google.com/file/d/181TC4cV1eeC0DTE5W1Sl0YrEJQTp7IMQ/view)
+
+__Design and Simulation of a Fuzzy Logic Controller__ [[report]](https://drive.google.com/file/d/1PJ31yN8vK_qRclduwQaoyEfgc41L-Cjv/view)
+
+__Image down-sampling processor implementation on FPGA__ [[report]](https://drive.google.com/file/d/1BHJg_6kH2_pMFBTn35woMI-bvNIdfJSJ/view)
+
+__Implementation of a UART using FGPA__ [[report]](https://drive.google.com/file/d/1RG1kDl1NgrXv8r-dbXBb_QKdbfTghIZw/view?usp=share_link)
+
+__AC Voltage Regulator using Power Electronic Devices__ [[report]](https://drive.google.com/file/d/1WC_v5h0DVWe7yd46Pa49iUDTinkwbAZE/view?usp=share_link)
+
+__Design of a FIR Bandpass filter using Windowing method using MATLAB__ [[report]](https://drive.google.com/file/d/1f-GT6UttmvoQJqplNoJxgZ8fnYUBhXXh/view?usp=share_link)
+
+__Analog Line Following Robot__ [[report]](https://drive.google.com/file/d/1aJwVcU2T-em6exkn5vnDM6QQZXgF0JCT/view?usp=share_link)
+
+__Bot to play game Battleship using PIC microcontroller__ [[report]](https://drive.google.com/file/d/1A1H81vRyCLsmS7Bn99tvZRV4gR1IPW2q/view?usp=share_link)
 
 __Automatic irrigation system for cultivations based on moisture level and time of the day__
 
-__Implementation of a UART using FGPA__
-
-__AC Voltage Regulator using Power Electronic Devices__
-
-__Design of a FIR Bandpass filter using Windowing method using MATLAB__
-
-__Analog Line Following Robot__
-
-__Bot to play game Battleship using PIC microcontroller__
-
-__Automatic irrigating system for flowerpot based on moisture level__
-
 __Payroll System software using Visual Studio__
-
 
 <br>
 # Achievements {#achievements}
