@@ -16,11 +16,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Active open-source contributor. Member of the [Ballerina programming language](https://ballerina.io/) team.
-Responsible mainly for the Ballerina runtime, JVM bytecode generation, intermediate representation (IR) optimisation.
+Responsible mainly for the Ballerina runtime, JVM bytecode generation, intermediate representation (IR) optimization.
 
 I am a graduate from University of Moratuwa, Sri Lanka specialized in Electronic and
 Telecommunication Engineering. Throughout my undergraduate studies and subsequent research, my focus has centered on 
-signal processing, machine learning, optimisation, and algorithms.
+signal processing, machine learning, optimization, and algorithms.
 
 __I am passionate about improving my knowledge, conducting research, 
 and using my experience to enhance the value of my work and have a positive impact on real-world applications.__
