@@ -10,6 +10,11 @@ nav_order: 5
 # Education {#education}
 ___
 
+__The University of Melbourne, Australia__ _(Feb 2024 - present)_
+- Doctor of Philosophy (Engineering and IT) - School of Computing and Information Systems
+  - __Research focus: Real-time concurrent optimization of traffic safety and efficiency using deep reinforcement learning__
+  - __Melbourne Research Scholarship recipient__
+
 __University of Moratuwa, Sri Lanka__ _(Oct 2016 - May 2021)_
 - Honors Degree of Bachelor of Science of Engineering - Electronic and Telecommunication Engineering Specialization
   - __First Class Honors with a CGPA 4.06 out of 4.2__
@@ -28,9 +33,9 @@ __Maliyadeva College, Kurunegala, Sri Lanka__ (Primary and High School) _(Jan 20
 # Publications {#publications}
 ___
 
-__N. Dissanayake__, C. U. S. Edussooriya, C. Wijenayake and A. Madanayake, "__Multi-
-Beam Wideband Transmit Beamforming using 2-D Sparse FIR Trapezoidal Filters__," under review in IEEE 
-Transactions on Antennas and Propagation
+
+__N. Dissanayake__, C. U. S. Edussooriya, C. Wijenayake, and A. Madanayake, “__Multibeam Wideband Transmit Beamforming Using 2D Sparse FIR Trapezoidal Filters__,” Journal of Low Power Electronics and Applications, vol. 14, no. 2, Art. no. 2, Jun. 2024, doi: 10.3390/jlpea14020026.
+[[paper]](https://www.mdpi.com/2079-9268/14/2/26)
   * Applied the knowledge of convex optimization, digital filters, and
   antenna theory. Used MATLAB, CVX toolbox, Python for multi-dimensional signal processing and constrained
   optimization. Used the CST Studio Suite for the creation and simulation of antenna array system.
@@ -54,10 +59,10 @@ Programmable Technology (ICFPT), Tianjin, China, 2019, pp. 411-414, doi: 10.1109
 # Work Experience {#work}
 ___
 
-__Software Engineer__ at [WSO2](https://wso2.com/) _(May 2021 - present)_
+__Senior Software Engineer__ _(May 2023 - Feb 2024)_, __Software Engineer__ _(May 2021 - Apr 2023)_ at [WSO2](https://wso2.com/)
 * Member of the [Ballerina programming language](https://ballerina.io/) team.
 Responsible mainly for the Ballerina runtime, including but not limited to scheduling, type checking, runtime APIs,
-JVM bytecode generation, intermediate representation (IR) optimization, observability, configurability, interoperability and performance.
+JVM bytecode generation, intermediate representation (IR) optimization, observability, configurability, interoperability and performance. [[service letter]](https://drive.google.com/file/d/1xOeXZXTHspaee0iVfTAp6mheXmoz5YDX/view)
 
 __Research Assistant__ at [Hardware and Embedded Systems Lab (HESL)](https://www.ntu.edu.sg/hesl/research-focus), Nanyang Technological University,
 Singapore (2020 QS World University Ranking - 11) _(Jun 2019 - Dec 2019)_
@@ -88,7 +93,7 @@ monitoring, and to design touchless systems using hand gesture recognition.
 * Supervisors: Dr. Chamira Edussooriya, Dr. Ranga Rodrigo
 * External Collaborators: Dr. Viduneth Ariyarathna, Prof. Arjuna Madanayake
 
-__Multi-Beam Wideband Transmit Beamforming using 2-D Sparse FIR Trapezoidal Filters__
+__Multi-Beam Wideband Transmit Beamforming using 2-D Sparse FIR Trapezoidal Filters__ [[paper]](https://www.mdpi.com/2079-9268/14/2/26)
 * Research project supervised by Dr. Chamira Edussooriya, Dr. Chamith Wijenayake and Prof. Arjuna Madanayake
 
 __Localization using Low Energy Bluetooth (BLE) Beaconing using an ESP32 and

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer at <a href='https://wso2.com/'>WSO2</a>.
+subtitle: Graduate Researcher at the <a href='https://cis.unimelb.edu.au/'>School of Computing and Information Systems</a>, <a href='https://about.unimelb.edu.au/'>The University of Melbourne</a>. Former Senior Software Engineer at <a href='https://wso2.com/'>WSO2</a>.
 
 profile:
   align: right
@@ -15,12 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Active open-source contributor. Member of the [Ballerina programming language](https://ballerina.io/) team.
-Responsible mainly for the Ballerina runtime, JVM bytecode generation, intermediate representation (IR) optimization.
+Research interests: __machine learning, deep learning, reinforcement learning, data mining, optimization, signal processing__
 
-I am a graduate from University of Moratuwa, Sri Lanka specialized in Electronic and
-Telecommunication Engineering. Throughout my undergraduate studies and subsequent research, my focus has centered on 
-signal processing, machine learning, optimization, and algorithms.
+Open-source contributor. Was a member of the [Ballerina programming language](https://ballerina.io/) team; 
+responsible mainly for the Ballerina runtime, code generation, and optimization.
+
+Graduate from University of Moratuwa, Sri Lanka specialized in <a href='https://ent.uom.lk/'>Electronic and
+Telecommunication Engineering</a>.
 
 __I am passionate about improving my knowledge, conducting research, 
 and using my experience to enhance the value of my work and have a positive impact on real-world applications.__
